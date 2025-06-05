@@ -2,7 +2,9 @@
 
 **This is a demo repository. The full source code is private and not publicly available.**
 
-This project is a Laravel educational platform designed for private tutors to manage lessons and students efficiently.
+This project is a Laravel educational platform designed for private tutors to lessons, students, and platform content.
+
+→ [Explore the Platform](https://el-shady.com) ←
 
 ---
 
